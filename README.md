@@ -18,7 +18,7 @@
 
 ## UI界面展示
 
-![ui](.\data\ui.png)
+![ui](data\ui.png)
 
 ## 安装依赖
 
